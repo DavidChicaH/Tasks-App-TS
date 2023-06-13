@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import Logo from "../public/vite.svg";
+import Logo from "/vite.svg";
 import { Task } from "./interfaces/task.interface";
 import TaskList from "./components/TaskList";
 import TaskForm from "./components/TaskForm";
